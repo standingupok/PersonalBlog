@@ -1,0 +1,51 @@
+﻿@model PerBlog.Models.Blog
+
+@{
+    ViewData["Title"] = "View";
+}
+
+
+
+<div class="container pt-5 mt-5">
+    <h1>View</h1>
+    <div>
+        <h4>Blog</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.TieuDe)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.TieuDe)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.NoiDung)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.NoiDung)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.TacGia)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.TacGia)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.TenAnh)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.TenAnh)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CateId)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Category.TenTheLoai)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

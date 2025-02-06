@@ -1,0 +1,23 @@
+﻿@model PerBlog.Models.Blog
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div class="container pt-5">
+<div>
+    <h1>Details</h1>
+    <h3>@Html.DisplayFor(model => model.Category.TenTheLoai)</h3>
+    <hr />
+    <div class="row d-flex flex-column">
+        <h2>@Html.DisplayFor(model => model.TieuDe)</h2>
+        <img src="~/images/@Html.DisplayFor(model => model.TenAnh)" class="card-img-top pb-2" alt="...">
+        <p class="blog-content">@Html.Raw(Model.NoiDung)</p>
+    </div>
+      <h1>@Html.DisplayFor(model => model.TacGia)</h1>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+</div>

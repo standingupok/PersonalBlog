@@ -1,0 +1,873 @@
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.exe
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.deps.json
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.runtimeconfig.json
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.runtimeconfig.dev.json
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.pdb
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.Views.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.Views.pdb
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.csproj.AssemblyReference.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.AssemblyInfoInputs.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.AssemblyInfo.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.csproj.CoreCompileInputs.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorAssemblyInfo.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorAssemblyInfo.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\PerBlog.StaticWebAssets.Manifest.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\PerBlog.StaticWebAssets.Pack.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PerBlog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PerBlog.props
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PerBlog.props
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PerBlog.props
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.TagHelpers.input.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.TagHelpers.output.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorCoreGenerate.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Intro\Index.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorTargetAssemblyInfo.cache
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorTargetAssemblyInfo.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.Views.pdb
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.csproj.CopyComplete
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.dll
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.pdb
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.genruntimeconfig.cache
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Create.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Details.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Edit.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\WEB\personal_web\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\libman.json
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\libman.json
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.exe
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.deps.json
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.runtimeconfig.json
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.runtimeconfig.dev.json
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.pdb
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.Views.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\PerBlog.Views.pdb
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.csproj.AssemblyReference.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.AssemblyInfoInputs.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.AssemblyInfo.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.csproj.CoreCompileInputs.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorAssemblyInfo.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorAssemblyInfo.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\PerBlog.StaticWebAssets.Manifest.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\PerBlog.StaticWebAssets.Pack.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PerBlog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PerBlog.props
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PerBlog.props
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PerBlog.props
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.TagHelpers.input.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.TagHelpers.output.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorCoreGenerate.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Create.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Details.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Edit.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Intro\Index.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorTargetAssemblyInfo.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.RazorTargetAssemblyInfo.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.Views.pdb
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.csproj.CopyComplete
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.pdb
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\PerBlog.genruntimeconfig.cache
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+D:\WEB\personal_web - Sao chép\PerBlog\PerBlog\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
